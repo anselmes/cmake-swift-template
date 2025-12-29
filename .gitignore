@@ -126,3 +126,5 @@ build/
 *.env
 *.mov
 *toolset.json
+
+!env.example

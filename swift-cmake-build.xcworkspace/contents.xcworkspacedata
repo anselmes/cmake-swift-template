@@ -5,7 +5,7 @@
       location = "group:lib/ExampleSys">
    </FileRef>
    <FileRef
-      location = "group:lib/Example">
+      location = "group:lib/ExampleSwift">
    </FileRef>
    <FileRef
       location = "group:app">
