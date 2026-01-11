@@ -1,4 +1,4 @@
-# Swift CMake Build
+# CMake Swift Template
 
 ## Screenshot
 
